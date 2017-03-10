@@ -1,0 +1,1 @@
+from djman.settings.dev import *
